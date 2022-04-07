@@ -1,0 +1,63 @@
+.mainbox{
+    width: 610px;
+    padding: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px soild #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0,0,0,0.1);
+    background-color: #F1E1F9;
+}
+.first{
+    border-spacing: 50px;
+}
+ul li.isfp{
+    color: aqua;
+}
+ul.isfp{
+    list-style-type: square;
+}
+ul.tmi a{
+    color: #F1E1F9;
+}
+ul.tmi a:hover{
+    color: black;
+}
+ul.tmi{
+    font-size: 11px;
+}
+.intro{
+    font-size: 25px;
+    font-style: italic;
+}
+.hint{
+    font-size: 2px;
+}
+.sy{
+    margin-left: 30px;
+    border: 0px soild #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(248, 255, 192, 0.998);
+}
+.mbti{
+    background-color: white;
+    border-width: 230;
+    border-radius: 50px;
+}
+.name{
+    font-size: 50px;
+    text-shadow: 3px 3px rgba(255, 192, 192, 0.998);
+}
+ul.school{
+    list-style-image: url("sch.png");
+    padding-left: 20px;
+}
+ul.com{
+    list-style-image: url("com.png");
+    padding-left: 20px;
+}
+caption{
+    font-size: larger;
+}
+section{
+    font-size: larger;
+    text-align: left;
+}
